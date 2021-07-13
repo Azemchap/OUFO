@@ -8452,8 +8452,8 @@ span {
 .somethx{
   padding-top: 6rem;
   font-size: 2rem;
-  font-family: arial, sans-serif;
-  worf
+  /* font-family: arial, sans-serif; */
+  word-spacing: 20;
 }
 
 a {
