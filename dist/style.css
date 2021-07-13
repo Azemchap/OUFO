@@ -8446,7 +8446,14 @@ body.menu-show {
 }
 
 span {
-  color: #bfbfbf;
+  color: #ecb323;
+}
+
+.somethx{
+  padding-top: 6rem;
+  font-size: 2rem;
+  font-family: arial, sans-serif;
+  worf
 }
 
 a {
